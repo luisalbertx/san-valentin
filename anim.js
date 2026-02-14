@@ -4,9 +4,9 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Desde que llegaste a mi vida.", time: 10 },
-  { text: "todo cambió de una manera que nunca imaginé.", time: 18 },
-  { text: "No fue algo ruidoso ni exagerado, fue algo suave…", time: 27 },
+  { text: "Desde que llegaste a mi vida.", time: 5 },
+  { text: "todo cambió de una manera que nunca imaginé.", time: 12 },
+  { text: "No fue algo ruidoso ni exagerado, fue algo suave…", time: 25 },
   { text: "pero tan fuerte que transformó mi mundo sin que me diera cuenta.", time: 32 },
   { text: "Contigo entendí que el amor no es solo decir", time: 36 },
   { text: "“TE QUIERO”,", time: 41 },
@@ -23,6 +23,7 @@ var lyricsData = [
   { text: "Si alguna vez dudas de lo importante que eres para mí,", time: 108 },
   { text: "recuerda esto:", time: 115 },
   { text: "llegaste a mi vida y la hiciste mejor. Y eso es algo que jamás voy a dejar de agradecer.", time: 120 },
+  { text: "Y eso es algo que jamás voy a dejar de agradecer.", time: 130 },
   { text: "Te quiero más de lo que las palabras pueden explicar. ❤️", time: 143 },
   {text: "Gracias por todo pequis , siempre agradecere a la vida por haberte conocido. ❤️", time: 150 },
  
