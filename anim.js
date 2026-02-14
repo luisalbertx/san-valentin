@@ -6,7 +6,7 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "", time: 9 },
   { text: "Tu oído y tu corazón escuchando mi canción hacen que cada palabra cobre sentido… gracias por eso", time: 215 },
-  { text: "", time: 300 },
+  { text: "", time: 400 },
  
 
  

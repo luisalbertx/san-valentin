@@ -3,7 +3,7 @@
     font-family: 'Poppins',cursive;
 }
 body{
-    color: rgb(37, 37, 37);
+    color: rgb(75, 43, 117);
     width: 100%;
     height: 82vh;
     display: flex;
@@ -45,11 +45,11 @@ body{
 }
 @keyframes glow{
     0%, 100%{
-        color: #feffff;
+        color: #f51987;
         text-shadow: 0 0 12px #39d660, 0 0 50px #dc05e4, 0 0 100px #39c6d6;
     }
     10%, 90%{
-        color: #111;
+        color: #6205ad;
         text-shadow: none;
     }
 }
